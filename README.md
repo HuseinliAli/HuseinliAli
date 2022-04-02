@@ -6,7 +6,7 @@
   </a>
 </h1>
 <br>
-<p align="center"><h1>
+<p align="center"><h3>
   Hi, I'm Ali Huseynli, IT Engineer  from Azerbaijan
   <br>
   <br>
@@ -16,13 +16,13 @@
   <br>
   📚 I’m currently learning C, C#
   <br>
-  💬 Ask me anything about from C# </h1>
+  💬 Ask me anything about from C# </h3>
   <br>
 </p>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="280" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  height="320" />
 <h2>languages and tools</h2>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <div>
 📈 my github stats
 
