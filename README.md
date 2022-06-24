@@ -14,7 +14,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning C, C#
+  📚 I’m currently learning C#
   <br>
   💬 Ask me anything about from C# </h3>
   <br>
