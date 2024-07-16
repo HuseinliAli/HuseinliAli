@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <a><img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Lifetime learning is my life philosophy</h2></summary>
   </ul>
 </div>
 
@@ -34,7 +34,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ali-huseynli/)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **.NET, React, Angular**
 
 - 📫 Feel free to reach me out **ali.guseynoov@gmail.com**
 
