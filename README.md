@@ -9,14 +9,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <a><img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -80,7 +72,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,c,cpp,html,css,docker,postgres,redis,java,js,materialui,mysql,postman,py,react,redux,tailwind,ts,vscode,vsstudio,angular,cs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,c,cpp,html,css,docker,postgres,redis,java,js,materialui,mysql,postman,py,react,redux,tailwind,ts,vscode,vsstudio,angularjs,cs&perline=14" />
   </a>
 </p>
 
