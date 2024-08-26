@@ -17,7 +17,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **.NET, React, React Native**
+- 🔭 I’m currently working on **.NET, React**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
