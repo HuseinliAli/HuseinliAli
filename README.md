@@ -17,15 +17,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **.NET, React**
+- 🔭 I’m currently working on **.NET**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in software engineering and software architectures. So,I'm learning **Microservices**
+- ☁️ I've keen interest in software engineering and software architectures. So,I'm learning **Software Architectures**
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ali-huseynli/)
 
-- 💬 Ask me about **.NET, React, Angular**
+- 💬 Ask me about **.NET**
 
 - 📫 Feel free to reach me out **ali.guseynoov@gmail.com**
 
@@ -71,7 +71,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,c,cpp,py,java,html,css,sass,materialui,bootstrap,tailwind,js,react,redux,ts,angular,vscode,cs,net,visualstudio,postgres,redis,rabbitmq,mysql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,c,cpp,java,html,css,materialui,bootstrap,js,angular,vscode,cs,net,visualstudio,postgres,redis,rabbitmq,mysql&perline=14" />
   </a>
 </p>
 
